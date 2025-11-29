@@ -46,7 +46,7 @@ let min = Number(prompt("Entrez le nombre minimal : "));<br>
 let max = Number(prompt("Entrez le nombre maximal : "));<br>
 Affichez tous les nombres entre min et max :<br>
 "Three" si multiple de 3<br>
-
+ 
 "Five" si multiple de 5<br>
 
 "Five&Three" si multiple de 3 et 5<br>
